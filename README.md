@@ -1,4 +1,4 @@
-# upg_calculator
+# UPG Calculator
 
 ## Screenshot
 
