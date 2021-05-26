@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-[!alt text](https://github.com/pyTimK/upgCalculator/blob/main/upg_calculator_graphic.png)
+![alt text](https://github.com/pyTimK/upgCalculator/blob/main/upg_calculator_graphic.png)
 
 ## Download on Google Play
 For android users, download [here](https://play.google.com/store/apps/details?id=com.praktiki.upgCalculator)
